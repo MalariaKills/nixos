@@ -4,6 +4,8 @@
 
 { config, pkgs, inputs, ... }:
 
+#COMMENT
+
 {
   imports =
     [ # Include the results of the hardware scan.
